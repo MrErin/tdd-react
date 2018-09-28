@@ -1,50 +1,12 @@
-# Project:
+# TDD With React
 
+I wanted to learn how to use TDD with React. I'm following [this tutorial](https://medium.freecodecamp.org/quick-guide-to-tdd-in-react-81888be67c64)
 
+## Heading I'm working on now:
 
-## Requirements:
-
-
-
-## Currently Working On:
-
-
-
-## Remaining Features:
-
-
-
-## Stretch Goals:
-
-
-
-## Completed Features:
-
-
-
-## Data Structure:
-
+Your First Test
 
 ## To Run
-
-[Delete what isn't necessary]
-
-Grunt Apps
-
-1. Clone the repo.
-2. From the command line, cd into the /src directory.
-3. Type ```grunt``` into the command line.
-4. Open a second terminal and cd into the /src directory.
-5. Type ```hs -o``` into the command line.
-
-Django Apps
-
-1. Clone the repo.
-2. From the command line, cd into the root directory (wherever the manage.py file is located).
-3. Type ```python manage.py runserver``` into the command line.
-4. Open a web browser and navigate to [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
-
-React Apps
 
 1. Clone the repo.
 2. From the command line, cd into the project directory
