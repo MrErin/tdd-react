@@ -14,9 +14,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "axios": "^0.18.0",
-    "axios-mock-adapter": "^1.15.0",
-    "jest": "^23.6.0",
-    "react-testing-library": "^5.1.0"
+    "react-test-renderer": "^16.5.2"
   }
 }
