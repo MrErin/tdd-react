@@ -17,3 +17,4 @@ I wanted to learn how to use TDD with React. I'm following the [Jest Tutorial](h
 
 1. Ensure you're in the ```/TDD-React/tdd-react``` directory
 1. From the command line run ```yarn test```
+1. This will continue to watch the tests and notify you if one fails.
